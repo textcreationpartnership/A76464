@@ -1,0 +1,165 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The best newes from York, that ever came to London and VVestminster. Containing, His Majesties most gracious resolution to returne to his Parliament; with his determination to be resident at at [sic] his pallace at Whitehall, where he may the better comply with his two Houses of Peeres and Commons. To the joy of all the Kings true hearted and loyally disposed subjects. With the contents of a letter lately sent from the Queenes Majestie to the King, concerning her desire, that His Majestie and the Parliament may concurre together.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1642</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 12 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A76464</idno>
+            <idno type="STC">Wing B2058</idno>
+            <idno type="STC">Thomason E153_4</idno>
+            <idno type="STC">ESTC R20889</idno>
+            <idno type="EEBO-CITATION">99867807</idno>
+            <idno type="PROQUEST">99867807</idno>
+            <idno type="VID">156793</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A76464)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 156793)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 27:E153[4])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The best newes from York, that ever came to London and VVestminster. Containing, His Majesties most gracious resolution to returne to his Parliament; with his determination to be resident at at [sic] his pallace at Whitehall, where he may the better comply with his two Houses of Peeres and Commons. To the joy of all the Kings true hearted and loyally disposed subjects. With the contents of a letter lately sent from the Queenes Majestie to the King, concerning her desire, that His Majestie and the Parliament may concurre together.</title>
+                  <author>Henrietta Maria, Queen, consort of Charles I, King of England, 1609-1669.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>by I.H. for T. Powel,</publisher>
+                  <pubPlace>Printed at London :</pubPlace>
+                  <date>1642. Iuly 1.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Charles --  I, --  King of England, 1600-1649 --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-07</date>
+            <label>Scott Lepisto</label>Sampled and proofread</change>
+         <change>
+            <date>2009-07</date>
+            <label>Scott Lepisto</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:156793:1" rendition="simple:additions"/>
+            <p>The best Newes from YORK, That ever came to London and VVeſtminster.</p>
+            <p>
+               <hi>Containing,</hi> His <hi>Majeſties</hi> moſt gracious Reſolution to returne to his <hi>Parliament;</hi> with his determination to be reſident at at his <hi>Pallace</hi> at <hi>Whitehall,</hi> where he may the better comply with his two <hi>Houſes</hi> of <hi>Peeres</hi> and <hi>Commons.</hi>
+            </p>
+            <p>To the joy Of all the <hi>KINGS</hi> true hearted and Loyally diſpoſed <hi>SVBJECTS.</hi>
+            </p>
+            <p>With the Contents of a <hi>Letter</hi> lately ſent from the <hi>Queenes Majeſtie</hi> to the <hi>King,</hi> concerning her deſire, that his <hi>Majeſtie</hi> and the <hi>Parliament</hi> may concurre together.</p>
+            <p>Printed at <hi>London</hi> by <hi>I. H.</hi> for <hi>T. Powel.</hi> 1642. <hi>Iuly</hi> 1.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:156793:2"/>
+            <pb n="1" facs="tcp:156793:2"/>
+            <head>The Beſt Nevvs from York, that ever came to the two Cities of <hi>London</hi> and <hi>Weſtminſter.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">W</seg>Heareas ſome malignant Parties have (with ſpecious ſhewes and pretences of Loyaltie) made the hearty and unfaigned love and fide<g ref="char:EOLhyphen"/>lity of thi<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Honourable Citie of <hi>London</hi> to the <hi>Kings</hi> Maieſtie not ſo well confided in as formerly, to the withdrawing of the <hi>Kings</hi> ſacred Perſon, whoſe preſence did like the Sun in the Celeſti<g ref="char:EOLhyphen"/>all Orbe, give radiant and vivificating ſplendor to this great <hi>Metropolis:</hi> and ſeeing that in his Maieſties abſence, there hath been ſuch a generall decay of Trading, and a ceſſation of all Manifactures, whereby the common ſort of People have beene expoſed to much neceſſity, and having wanted meanes and maintenanee for their preſent ſubſiſting, although this in it ſelfe conſidered can have relation to no other cauſe, but from the <hi>Kings</hi> pleaſure to tranſport his Perſon to <hi>Yorke,</hi> beſides the impreſſion of feares and iealouſies which have tooke poſ<g ref="char:EOLhyphen"/>ſeſſion not onely in the mind of the weakeſt, but in the cogi<g ref="char:EOLhyphen"/>tation of thoſe of cleere apprehenſions and ſound iudgements, that the alienation of mutuall affection and confidence be<g ref="char:EOLhyphen"/>tweene the King and his great Counſell can produce nothing but a diſtraction in the Kingdome, and ſuch effects as they are
+<pb n="2" facs="tcp:156793:3"/>
+affraid to mention or behold with their underſtanding, but through the proſpect of precedent times, as in the Reigne of <hi>Richard</hi> the Third, when there was ſuch a great diſaffection and conteſtation betweene the King and his <hi>Parliament.</hi> The face of the Times being growne pallid with care and unutte<g ref="char:EOLhyphen"/>rable griefe and diſcontent to diſcerne with an Ataxie and diſ<g ref="char:EOLhyphen"/>order in the harmonious concord of the happy Go<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ernment of this Kingdome perturbed by ſome malicious Machiavells, and pernitious Councellors: And whereas the King hath im<g ref="char:EOLhyphen"/>mur'd and clouded Himſelfe from reflecting on his Sou<g ref="char:EOLhyphen"/>therne Subiects with his uſuall and comfortable beames of favour, to the diſcouragement of his great and Honoura<g ref="char:EOLhyphen"/>ble Counſell of <hi>PARLIAMENT,</hi> and the encouragement of the bloody, ſuperſtitious, and execrable Rebells in <hi>Ire<g ref="char:EOLhyphen"/>land,</hi> who daly comit moſt inhumain maſſacres on the Prote<g ref="char:EOLhyphen"/>ſtants, and beſides where there hath beene ſuch a continuall in<g ref="char:EOLhyphen"/>tercourſe of Declarations continually imprinted and publiſhed to vindicate the Kings Maieſty from all aſperſions of any ſini<g ref="char:EOLhyphen"/>ſter intent in raiſing any Armes in the North, or to have any Deſigne againſt his loyall People and Integrious Parliament, though his preparation of Ammunition and Forces indeavored to perſwade the hearts and affections of his People to the con<g ref="char:EOLhyphen"/>trary. It hath now pleaſed God by whoſe diuine providence the Circumvolutions of all terrene ſublunary maters is turned about to the manifeſtation of his love and favour to this Na<g ref="char:EOLhyphen"/>tion, and to the expreſſion of his owne mighty Power, to worke an unexpected alteration in the Kings Heart and In<g ref="char:EOLhyphen"/>tentions.</p>
+            <p>For, whereas before hee had beene often ſollicited by ma<g ref="char:EOLhyphen"/>ny and ſundry humble Petitions that it would pleaſe his Ma<g ref="char:EOLhyphen"/>ieſty to accord with his Parliaments proceedings, and to ſoli<g ref="char:EOLhyphen"/>citate &amp; make happy his Subiects by affording them the graci<g ref="char:EOLhyphen"/>ous poſſeſſion and fruition of his preſence, by returning to his
+<pb n="3" facs="tcp:156793:3"/>
+loyall City of London diſconſolate in his long diſcontinu<g ref="char:EOLhyphen"/>ance from thence, Hee is now by the earneſt advice and per<g ref="char:EOLhyphen"/>ſwaſion of ſome great Perſonages won and enclined to prove and demonſtrate by reall actions that which ſo long and with ſo many reiterated Declarations hee hath ſo often profeſſed; namely, the mainteining the true Proteſtant Religion and the peaceable Government of this Kingdome, according to the Fundamentall Lawes thereof, and hereupon having ta<g ref="char:EOLhyphen"/>ken matters deeply into his conſideration, and weighed in the Ballance of Iuſtice and Iudgement the great hazzard he ſhould runn by engaging this Land into the combuſtions of a ciuill diſcord ſo much deſired by the Malignant party and now fully beleeveing that the Love of his loyall Subiects is the ſtrongeſt gu<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rd of defence that can be raiſed both for ſecurity of his own Royall Perſon, and the proſperity of his Realmes and Domi<g ref="char:EOLhyphen"/>nions; His Maieſty haveing duely conſidered theſe aforeſaid reaſons, if fully and abſolutely determined forthwith to relin<g ref="char:EOLhyphen"/>qiſh the the City of Yorke, and all his former Intentions of raiſing Armes, whereby his Loyall Southerne Subiects were inſtigated nouriſh many iuſt feares and Iealouſies of the event and pupoſe in raiſing ſuch unneceſſary Forces, and to give their mindes more Large and Satisfactory contentment, hee is gratiouſly reſolved to take off all diſguiſes of war which did ſo diſanimate and affright his Loving Subiects, and make it appeare by actuall Declarations that hee will endeavour to aſſimilate his Royall Father of bleſſed Memory, and to ſhew himſelfe as hee is in his owne gracious thoughts a peaceable and pious King, and for the further conformation hereof, hee is purpoſed forthwith to renovate the Ioy and happines of this diſtracted diſcontented City, and to give them a teſti<g ref="char:EOLhyphen"/>mony to ſecure their preſent feares, by his gracious returning and coming back to the City of London, that ſo the rumors and reports of any Warrlik actions and deſignes may bee ex<g ref="char:EOLhyphen"/>tirpated
+<pb n="4" facs="tcp:156793:4"/>
+and ſuppreſſed, all matters ſetled in a quiet and peace<g ref="char:EOLhyphen"/>able condition by his gratious and loving coreſpondence with his loyall <hi>Parliament</hi> and <hi>People</hi> who are ready to hazard their lives and fortunes for his Maieſties ſafety and protection; and this concurrence in affection with his Parliament and people will no doubt bee the impulſive cauſe to produce many happy and auſpitious effects: for as his Maieſties returning to Lon<g ref="char:EOLhyphen"/>don will be a great ioy and conſolation to all his faithfull and affectionate Subiects, ſo will it be a diſanimation to the ma<g ref="char:EOLhyphen"/>lignant party, when they ſhall perceive that all their evill councells hatched with ſuch profound pollicy, and grounded on nefarious Principles cannot produce ſuch a diſturbance to the Common-wealth as they coniectured, nor detaine the Kings Maieſtie in the Northerne parts by irritating and provoking His gracious diſpoſition to confront and op<g ref="char:EOLhyphen"/>poſe His People and Parliament; who doe and ever ſhall account it the Higheſt and Nobleſt end of their endeavours, to ſhew their willingneſſe and alacrity in obeying and ſer<g ref="char:EOLhyphen"/>ving the Kings Maieſties iuſt and Legall commands, nei<g ref="char:EOLhyphen"/>ther can they conceive and imagine a greater and fuller ioy, exhilirating and ſwelling into an exultation of glad<g ref="char:EOLhyphen"/>neſſe, then when they apprehend what felicity the Kings Ma<g ref="char:EOLhyphen"/>ieſties moſt gratious Vnion and correſpondent relation with his Parliament may opperate in the affections of his Subiect, and the felicitating of many great Affaires, which now bleed for want of expedition and due proſecution it being a ve<g ref="char:EOLhyphen"/>ritie as well in Politicall matters as Morall, that where there is no progreſſion in State matters, there muſt needes bee a re<g ref="char:EOLhyphen"/>greſſion.</p>
+            <p>And beſides theſe aſpicious effects, which would reſult by the Kings Maieſties gracious converſion to his Parliament, and reverſion, or returning again to his City of London; what ſublimated Speech or high expreſſions of the moſt refined
+<pb n="5" facs="tcp:156793:4"/>
+mellifluous Oratory, can delineate thoſe earneſt deſires which doe enflame the affections of the Citizens to behold the ani<g ref="char:EOLhyphen"/>mable and gracious aſpect of his Maieſty, in whoſe counte<g ref="char:EOLhyphen"/>nance fierceneſſe and Maieſty are mixt together, to attract good ſubiects to an humble familiarity, and to ſtrike a terror into the bad: If there bee great demonſtrations of ioy and exceſſive reioycing when friends long divided and ſeparated, doe by the indulgence of Fortune occurre and meet againe, or when friends are alienated in affection, if after their reconci<g ref="char:EOLhyphen"/>liation, their combination in love grow the ſtronger, may it not hence much more bee concluded, that the Kings Maie<g ref="char:EOLhyphen"/>ſties long abſence from the City of London, ſhall make the City more ioyfull for his returne: while their hearts make loud acclamations of reioycing for his forſaking <hi>Yorke,</hi> as he intends to doe, and comming to London.</p>
+            <p>For the Kings Maieſty is (as it were) the <hi>C<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ripheus</hi> and Sun of Maieſty, that doth warn and cheriſh the hearts of his ſub<g ref="char:EOLhyphen"/>iects with his preſence, and therefore it is no wonder that the City of London doth with ſuch ardency of affection deſire to be ſenſible of the animating beames of his favour, at a meere diſtance; and that Yorke might not ſurfeit with his liberall benignity, and continuall reſidence, while <hi>London</hi> the anci<g ref="char:EOLhyphen"/>ent Seat of the Kings and Princes of this Land is left forſaken by his Maieſty, then which there can be no greater griefe; for they knowing their loyall intentions to his Maieſty, to equi<g ref="char:EOLhyphen"/>perate, if not exceed any of his loyall Subiects, cannot chuſe but be much diſanimated by the Kings Maieſties ſequeſtring himſelfe from his ancient Court of reſidence; but now after m<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ture deliberation and earneſt perſwaſion, his Maieſty is fully reſolved to give ſuch countenance to his ſubiects of the City of London, as their demerits in all age for their loyal<g ref="char:EOLhyphen"/>tie and fidelitie hath deſerved, and to ſhew that his with draw<g ref="char:EOLhyphen"/>ing himſelfe from <hi>London,</hi> was rather the effect of evill coun<g ref="char:EOLhyphen"/>ſell
+<pb n="6" facs="tcp:156793:5"/>
+then any diſtruſt or certainty conceived againſt them grounded vpon any apprehenſion feares, grounded vpon any tumultuary carriage or demeanor at <hi>Weſtminſter,</hi> his Maieſty, his Maieſty, in token of hearty reconciliation to his Parli<g ref="char:EOLhyphen"/>ament and People, and thereof is purpoſed with all expedi<g ref="char:EOLhyphen"/>tion poſſible to reviſit the City of London. And thereby give them ample teſtimony and confirmation, that <hi>regnantiam ira amoris redinte gratio eſt,</hi> the abſence of Kings renovates the af<g ref="char:EOLhyphen"/>fection of Subiects, and makes their returne more welcome, there being nothing more deſired then His Maieſties returne to <hi>London.</hi>
+            </p>
+            <floatingText type="letter">
+               <body>
+                  <head>The Queenes Letter.</head>
+                  <p>ROyall <hi>SIR,</hi> Though I have beene a long time abſent from you in Perſon, yet am I ſtill and ever will be preſent with You in affection. No diſtance of place can divide our hearts, nor any length of time can leſſen the reall and unfaigned love that is equall betweene us. My hearts deſire is to ſee You, and once more to behold a happy Vnion betweene Your Maje<g ref="char:EOLhyphen"/>ſtie and your Parliament.</p>
+               </body>
+            </floatingText>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
